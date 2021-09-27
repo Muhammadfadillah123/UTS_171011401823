@@ -4,4 +4,4 @@
 
 ## Lampiran screnshoot run program
 
-<img src="lampiran.png" alt="drawing" width="800"/>
+![drawing](lampiran.png)
