@@ -4,4 +4,4 @@
 
 ## Lampiran screnshoot run program
 
-![drawing](lampiran.png)
+<a href="https://ibb.co/N9JMMk4"><img src="https://i.ibb.co/HtbjjMJ/lampiran.png" alt="lampiran" border="0"></a>
